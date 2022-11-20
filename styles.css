@@ -1,0 +1,20 @@
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.myInput {
+  border-radius: 25px;
+  width: 80%;
+  height: 35px;
+  border-color: gainsboro;
+}
+option {
+  background-color: rgb(113, 115, 115);
+  color: white;
+}
